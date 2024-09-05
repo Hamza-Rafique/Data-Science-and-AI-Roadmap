@@ -87,7 +87,9 @@ Before starting, ensure you have the following tools installed:
 │   ├── machine_learning_exercises.ipynb
 │
 └── README.md
+```bash
 
+---
 
 ## 🤝 Contribution
 Feel free to submit issues or pull requests to improve the roadmap or add new sections!
