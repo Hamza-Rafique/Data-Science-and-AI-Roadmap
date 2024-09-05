@@ -21,6 +21,7 @@ Key components of Data Science include:
 - **Artificial Intelligence (AI)** refers to the development of computer systems that can perform tasks that typically require human intelligence. These tasks include problem-solving, reasoning, perception, natural language understanding, and decision-making.
   
 - **Machine Learning (ML)** is a subset of AI that focuses on the ability of machines to learn and improve from experience without being explicitly programmed. In ML, algorithms are trained on data, enabling the system to make predictions or take actions based on input data.
+![image](https://github.com/user-attachments/assets/3c7fe400-1230-4c0e-8bda-404bd9d1d54c)
 
 There are three main types of Machine Learning:
 1. **Supervised Learning**: Learning from labeled data (e.g., regression, classification).
