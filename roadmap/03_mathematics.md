@@ -87,3 +87,35 @@ p_a_and_b = p_a * p_b
 print(f"Probability of both A and B: {p_a_and_b}")
 ```
 ---
+
+## Statistics
+Statistics helps us analyze data, summarize patterns, and make predictions. Some important concepts include:
+
+- **Descriptive Statistics:** Mean, median, mode, variance, standard deviation.
+- **Inferential Statistics:** Making predictions or inferences from a sample of data.
+- **Hypothesis Testing:** Testing assumptions about data.
+- **Confidence Intervals:** A range of values within which a population parameter is estimated to lie.
+Example:
+```python
+import numpy as np
+
+data = [10, 20, 30, 40, 50]
+
+# Calculate mean, median, and standard deviation
+mean = np.mean(data)
+median = np.median(data)
+std_dev = np.std(data)
+
+print(f"Mean: {mean}, Median: {median}, Standard Deviation: {std_dev}")
+```
+---
+
+## Applications in Data Science
+Mathematics is applied throughout the entire data science pipeline, from data preprocessing and visualization to model building and evaluation.
+
+- **Data Preprocessing:** Use of statistics to clean and normalize data.
+- **Dimensionality Reduction:** Linear algebra for reducing features (PCA).
+- **Model Optimization:** Calculus for optimizing cost functions.
+- **Probabilistic Models:** Applying probability theory for Bayesian models.
+
+---
