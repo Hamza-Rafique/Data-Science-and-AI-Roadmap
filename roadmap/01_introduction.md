@@ -1,8 +1,10 @@
 # Introduction to Data Science & AI
 
 ## What is Data Science?
+![image](https://github.com/user-attachments/assets/cec416e0-59ec-4fb5-831f-0433064a5532)
 
 Data Science is an interdisciplinary(relating to more than one branch of knowledge.) field that focuses on extracting knowledge and insights from structured and unstructured data. It involves the use of statistical methods, machine learning algorithms, and various other tools to analyze, visualize, and interpret data to solve complex problems or make data-driven decisions.
+
 
 Key components of Data Science include:
 - **Data Collection**: Gathering raw data from various sources.
@@ -10,6 +12,9 @@ Key components of Data Science include:
 - **Data Analysis**: Using statistical methods and models to extract meaningful insights.
 - **Data Visualization**: Presenting data in a visual context like graphs or charts.
 - **Decision-Making**: Leveraging the analysis to guide actions or business strategies.
+- 
+- ![image](https://github.com/user-attachments/assets/88671b52-5c02-446a-a078-844e3361ffcf)
+
 
 ## What is AI and Machine Learning?
 
