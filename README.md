@@ -86,7 +86,8 @@ Before starting, ensure you have the following tools installed:
 │   ├── python_basics_exercises.ipynb
 │   ├── machine_learning_exercises.ipynb
 │
-└── README.md
+└── README.md 
+
 
 ---
 
