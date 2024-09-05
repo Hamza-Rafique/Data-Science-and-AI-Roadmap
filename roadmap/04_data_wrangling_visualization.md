@@ -40,3 +40,17 @@ cleaned_data = data.dropna()
 
 # Filling missing values with the mean
 data_filled = data.fillna(data.mean())
+```
+## Data Cleaning Techniques
+
+### 1. Handling Missing Data
+Missing data can be handled by:
+
+- **Removing missing data:** Deleting rows or columns that contain missing values.
+- **Imputation:** Replacing missing data with statistical measures like mean, median, or mode.
+  
+Example:
+```python
+# Filling missing values with the column mean
+data['column_name'].fillna(data['column_name'].mean(), inplace=True)
+```
