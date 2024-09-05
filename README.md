@@ -87,7 +87,6 @@ Before starting, ensure you have the following tools installed:
 │   ├── machine_learning_exercises.ipynb
 │
 └── README.md
-```bash
 
 ---
 
