@@ -2,7 +2,7 @@
 
 ## What is Data Science?
 
-Data Science is an interdisciplinary field that focuses on extracting knowledge and insights from structured and unstructured data. It involves the use of statistical methods, machine learning algorithms, and various other tools to analyze, visualize, and interpret data to solve complex problems or make data-driven decisions.
+Data Science is an interdisciplinary(relating to more than one branch of knowledge.) field that focuses on extracting knowledge and insights from structured and unstructured data. It involves the use of statistical methods, machine learning algorithms, and various other tools to analyze, visualize, and interpret data to solve complex problems or make data-driven decisions.
 
 Key components of Data Science include:
 - **Data Collection**: Gathering raw data from various sources.
