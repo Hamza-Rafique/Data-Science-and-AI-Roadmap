@@ -51,3 +51,8 @@ Once installed, open a terminal or command prompt and type:
 
 ```bash
 python --version
+
+If the installation was successful, you should see an output like this:
+
+```bash
+Python 3.x.x
