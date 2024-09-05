@@ -50,7 +50,7 @@ You can write Python code in any text editor, but it's recommended to use an Int
 Once installed, open a terminal or command prompt and type:
 
 ```bash
-python --version
+python --version ```
 
 If the installation was successful, you should see an output like this:
 
