@@ -6,6 +6,10 @@ Each section will cover critical topics, starting from the basics and gradually 
 
 ---
 
+
+https://github.com/user-attachments/assets/303023c0-1b6c-4960-bed6-7cce067d5612
+
+
 ## 📖 Roadmap Overview
 
 ### 1. [Introduction to Data Science & AI](roadmap/01_introduction.md)
