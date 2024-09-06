@@ -90,8 +90,9 @@ Before starting, ensure you have the following tools installed:
 │   ├── python_basics_exercises.ipynb
 │   ├── machine_learning_exercises.ipynb
 │
-└── README.md 
+└── README.md
 
+```
 
 ---
 
@@ -99,4 +100,4 @@ Before starting, ensure you have the following tools installed:
 Feel free to submit issues or pull requests to improve the roadmap or add new sections!
 
 ## 📫 Contact
-If you have any questions or need clarification, feel free to reach out to me via LinkedIn.
+If you have any questions or need clarification, feel free to contact me via LinkedIn.[https://www.linkedin.com/in/hamza-rafique-developer/]
