@@ -10,7 +10,7 @@ Thank you for considering contributing to this project! We welcome all contribut
 2. **Clone Your Fork**  
    Clone the forked repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Hamza-Rafique/Data-Science-and-AI-Roadmap.git
 
 3. **Create a Branch**
    Create a new branch for your feature or bug fix:
