@@ -1,4 +1,5 @@
 # 🐍 Python Basics
+![image](https://github.com/user-attachments/assets/cbb28a9f-a2d1-4575-9c5f-5f570716099a)
 
 Welcome to the Python Basics section of the Data Science and AI Roadmap! Python is the most widely used programming language in the world of Data Science and AI due to its simplicity and powerful libraries. In this section, we will cover the fundamentals of Python that will serve as the building blocks for more advanced topics later on.
 
