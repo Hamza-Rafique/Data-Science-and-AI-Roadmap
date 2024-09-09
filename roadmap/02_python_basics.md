@@ -147,3 +147,31 @@ y = float("7.5")   # y will be 7.5
 z = str(25)        # z will be '25'
 
 ```
+### 7. Printing Variables
+In Python, you can print variables using the **print()** function. You can also format output using f-strings for easy embedding of variables into strings.
+
+**Example:**
+
+```python
+name = "John"
+age = 30
+
+# Simple print
+print(name)
+
+# Print with formatting
+print(f"My name is {name} and I am {age} years old.")
+
+```
+### 8. Reserved Keywords
+ Python has a set of reserved keywords that cannot be used as variable names. These include if, else, for, while, def, return, etc.
+
+**Example of Reserved Keywords:**
+```python
+# Don't use these as variable names
+if, else, for, while, class, return, True, False
+```
+This concludes the basics of Python's syntax and variable handling. With these foundational concepts, you can begin exploring more advanced language features.
+
+---
+
