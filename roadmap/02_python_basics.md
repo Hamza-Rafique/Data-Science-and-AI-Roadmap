@@ -58,3 +58,92 @@ If the installation was successful, you should see an output like this:
 
 ```bash
 Python 3.x.x
+```
+
+---
+
+## 3. Basic Syntax and Variables
+
+### Introduction
+Python is known for its simplicity and readability. The syntax of Python is designed to be clean and straightforward, making it an excellent language for beginners while also being powerful for advanced users. Below is an introduction to the basic syntax and variable handling in Python.
+
+### 1. Python Indentation
+Unlike many programming languages that use braces `{}` to define blocks of code, Python uses **indentation** (spaces or tabs) to denote block structures. This is a key feature of Python, and it is critical to ensure the correct indentation level, as improper indentation will result in an error.
+
+**Example:**
+```python
+if True:
+    print("This is inside an if block")  # This line is indented
+```
+### 2. Comments in Python
+Python supports two types of comments:
+
+- **Single-line comments** start with a #.
+- **Multi-line comments** can be made using triple quotes ''' or """.
+  
+**Example:**
+```python
+# This is a single-line comment
+
+"""
+This is a multi-line comment
+spanning multiple lines
+"""
+
+```
+### 3. Variables in Python
+Variables in Python do not require explicit declaration, and their data types are inferred based on the value assigned. You can assign values to variables and change their types dynamically.
+**
+Rules for Variable Names:**
+
+- Variable names must start with a letter or an underscore (_).
+- The rest of the name can contain letters, numbers, or underscores.
+- Variable names are **case-sensitive** (name and Name are different).
+
+**Example:**
+ ```python
+x = 10         # x is an integer
+y = "Hello"    # y is a string
+z = 3.14       # z is a floating-point number
+
+# Variable reassignment
+x = "Python"   # x is now a string
+```
+
+### 4. Variable Types
+Python is dynamically typed, meaning you do not need to declare the type of a variable. Python will automatically interpret the variable type based on the assigned value.
+
+- **Integers:** Whole numbers (e.g., x = 10)
+- **Floating-point numbers**: Decimal numbers (e.g., y = 3.14)
+- **Strings:** Text enclosed in quotes (e.g., z = "Hello")
+- **Boolean**: True or False values (e.g., a = True)
+- 
+```python
+age = 25                 # Integer
+price = 19.99            # Float
+name = "Alice"           # String
+is_active = True         # Boolean
+``` 
+### 5. Assigning Multiple Variables
+
+Python allows for multiple variables to be assigned in a single line.
+
+**Example:**
+```python
+a, b, c = 1, 2, 3
+x = y = z = "Same value"
+``` 
+### 6. Variable Type Casting
+Python allows you to convert between types using casting functions:
+
+- **int()** - Converts to an integer
+- **float()** - Converts to a float
+- **str()** - Converts to a string
+- **bool()** - Converts to a boolean
+**Example: ** 
+```python
+x = int(3.14)      # x will be 3
+y = float("7.5")   # y will be 7.5
+z = str(25)        # z will be '25'
+
+```
