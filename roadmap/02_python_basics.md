@@ -176,3 +176,74 @@ This concludes the basics of Python's syntax and variable handling. With these f
 
 ---
 
+# Data Types and Structures
+
+## 1. Introduction
+Python provides several built-in data types and data structures that make it easy to store and manipulate data. Understanding these is crucial for efficient programming. Below is a comprehensive guide to Python's key data types and structures.
+
+## 2. Basic Data Types
+Data Types already discussed in above for more you can check phyton doc
+
+## 3. Data Structures
+
+### 1. Lists
+Lists are ordered, mutable (changeable) collections of items. Items in a list can be of different data types. Lists are defined using square brackets [].
+
+**Example:**
+
+```python
+numbers = [1, 2, 3, 4, 5]
+mixed_list = [1, "hello", True, 3.14]
+```
+- Accessing elements:
+
+```python
+ first_element = numbers[0]    # 1
+```
+- Modifying elements:
+```python
+  numbers[2] = 10
+```
+- List methods:
+  ```python
+  numbers.append(6)      # Adds 6 at the end
+  numbers.remove(10)     # Removes 10 from the list
+ ```
+### 2. Tuples
+Tuples are similar to lists but are immutable (cannot be changed after creation). They are defined using parentheses ().
+**Example:**
+
+```python
+coordinates = (10, 20)
+  ```
+- Accessing elements:
+```python
+x = coordinates[0]    # 10
+```
+- Tuples cannot be modified:
+```python
+# coordinates[0] = 15  -> This will raise an error
+```
+### 3. Dictionaries
+Dictionaries store data in **key-value pairs**. They are unordered and mutable. Defined using curly braces {}, where each item is a key-value pair separated by a colon : .
+**Example:**
+```python
+person = {
+    "name": "Alice",
+    "age": 30,
+    "is_student": False
+}
+```
+
+- Accessing values by key:
+  ```python
+  name = person["name"]    # "Alice"
+  ```
+- Modifying values:
+   ```python
+   person["age"] = 31
+  ```
+- Adding a new key-value pair:
+   ```python
+   person["city"] = "New York"
+  ```
