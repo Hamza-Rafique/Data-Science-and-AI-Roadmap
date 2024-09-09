@@ -205,12 +205,15 @@ mixed_list = [1, "hello", True, 3.14]
   numbers[2] = 10
 ```
 - List methods:
+- 
   ```python
   numbers.append(6)      # Adds 6 at the end
   numbers.remove(10)     # Removes 10 from the list
  ```
+
 ### 2. Tuples
 Tuples are similar to lists but are immutable (cannot be changed after creation). They are defined using parentheses ().
+
 **Example:**
 
 ```python
