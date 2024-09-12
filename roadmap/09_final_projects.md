@@ -1,8 +1,12 @@
 # Final Projects & Case Studies
 
+![download](https://github.com/user-attachments/assets/ccf71034-9cd2-446c-a00a-8b812551370a)
+
 Throughout the journey of learning and applying machine learning techniques, working on final projects and analyzing case studies plays a crucial role. These projects and case studies allow you to apply the concepts in real-world scenarios and understand the end-to-end process of model development, deployment, and analysis.
 
 ## Capstone Project
+
+![download](https://github.com/user-attachments/assets/0d31977e-12b6-4ef0-9c78-17db47755d3f)
 
 A **Capstone Project** is typically the final project that encapsulates everything you've learned during your study. It’s a comprehensive project designed to solve a real-world problem using advanced machine learning techniques.
 
