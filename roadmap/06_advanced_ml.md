@@ -14,6 +14,9 @@ Some common areas in advanced machine learning include:
 Advanced machine learning requires understanding complex algorithms, efficient handling of large datasets, and tuning models for optimal performance.
 
 ## 2. Neural Networks and Deep Learning
+
+![download](https://github.com/user-attachments/assets/6b41110d-b6e4-42b1-bdc0-d7dda3d62700)
+
 Neural networks are a foundational technology in machine learning, inspired by the human brain. They consist of layers of interconnected neurons (nodes), where each layer transforms the input data through learned weights and biases.
 
 ### Key Concepts:
