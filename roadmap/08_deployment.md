@@ -13,6 +13,9 @@ Deploying a machine learning (ML) model is the process of taking a trained model
 
 ## Deploying Models with Flask/Django
 
+![download](https://github.com/user-attachments/assets/0850413c-8f7c-4598-95e8-bbc698b1bbab)
+
+
 To make your machine learning model accessible to users, you can deploy it as a web service. Two popular Python frameworks for this purpose are:
 
 - **Flask**: A lightweight web framework that is easy to set up for simple applications.
@@ -28,6 +31,8 @@ To make your machine learning model accessible to users, you can deploy it as a 
 2. Define a route (e.g., `/predict`) to accept input data.
 3. Run the model on the input data and return the prediction.
 4. Launch the Flask app so it can be accessed via the web.
+
+![TDEW5tr](https://github.com/user-attachments/assets/ac99c174-63dd-4824-8d7d-bd59737418d8)
 
 ### Steps to Deploy a Model with Django:
 1. Use Django to create a web interface.
